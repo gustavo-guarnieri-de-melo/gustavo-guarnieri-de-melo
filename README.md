@@ -11,6 +11,7 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=javas&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=black" />
+  <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=python&logoColor=purple" />
 </div><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-guarnieri-de-melo)](https://github.com/gustavo-guarnieri-de-melo)
