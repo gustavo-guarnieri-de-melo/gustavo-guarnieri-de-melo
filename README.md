@@ -14,6 +14,7 @@
   <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=black" />
 </div><br/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-guarnieri-de-melo&layout=compact&theme=radical" />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-guarnieri-de-melo)](https://github.com/gustavo-guarnieri-de-melo)
 
 
