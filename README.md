@@ -14,12 +14,11 @@
   <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=black" />
 </div><br/>
 
-## My repositories content
+## 
 
 <div>
   <a href="https://github.com/gustavo-guarnieri-de-melo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-guarnieri-de-melo&layout=compact&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-guarnieri-de-melo&show_icons=true&theme=radical" />
   </a>
 </div>
 
