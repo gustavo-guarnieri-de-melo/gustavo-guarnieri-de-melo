@@ -12,7 +12,7 @@
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div><br/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J2Z240cGZ3aXpsODdxaHZ0dzFqc2Z2Zmp0NW5ibHdyYmU5OW9hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UtcBRO8cxulRzkrVLc/giphy.gif" />
+
 
 
 ## 
