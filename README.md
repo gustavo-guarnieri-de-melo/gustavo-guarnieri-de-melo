@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo Guarnieri 🏳️‍🌈
+## Olá! Eu sou o Gustavo Guarnieri 🏳️‍🌈 she/them 
 
 
 
