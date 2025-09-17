@@ -15,12 +15,6 @@
 
  
 
-## 
 
-<div>
-  <a href="https://github.com/gustavo-guarnieri-de-melo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-guarnieri-de-melo&layout=compact&theme=radical" />
-  </a>
-</div>
 
 
